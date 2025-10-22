@@ -81,7 +81,8 @@ Ecosystem actors (chambers, accelerators) can become cognitive-network hubs—no
 
 Validates the importance of trust protocols and governance (human oversight, peer-mentor role preserved).
 
-**Pivot City Connectomics (2021–2025): A Jacksonville Case Study**
+
+**Pivot City Connectomics (2021–2025): A Jacksonville Case Study Perspective**
 
 **1) Baseline & Pre-AI Results (2018–2021 groundwork; published 2022)**
 
