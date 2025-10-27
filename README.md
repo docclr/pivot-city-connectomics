@@ -156,9 +156,10 @@ BizJournals
 **Prescriptive Effectiveness:** cycle-time compression (75→4 hrs) and faster staff ramp. 
 Jax Daily Record
 
-Temporal Feedback: iterative cohorts (twice yearly) accelerate learning loops region-wide. 
+**Temporal Feedback:** iterative cohorts (twice yearly) accelerate learning loops region-wide. 
 Jax Daily Record
 
-Trust/Legitimacy: external recognition (business press + U.S. Chamber visit). 
-BizJournals
-+1
+**Trust/Legitimacy:** external recognition (business press + U.S. Chamber visit). 
+BizJournals +1
+
+**Thought Leadership:** this work serves as both foundation and validation for the emergence of "The Future of Entrepreneuring" (FoE)
